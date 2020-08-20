@@ -58,6 +58,7 @@ Feel free to contribute to this list, recommend readed paper/code/resources and 
 - LR3M: Robust Low-Light Enhancement via Low-Rank Regularized Retinex Model [[Paper](https://ieeexplore.ieee.org/document/9056796)]
     - Xutong Ren, Wenhan Yang, Wen-Huang Cheng, and Jiaying Liu, TIP, 2020
 - Visual Perception Model for Rapid and AdaptiveLow-light Image Enhancement, [[Paper](https://arxiv.org/abs/2005.07343)], arxiv, submit to TCVST, 2020
+- Learning to Restore Low-Light Images via Decomposition-and-Enhancement [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Learning_to_Restore_Low-Light_Images_via_Decomposition-and-Enhancement_CVPR_2020_paper.html)], CVPR, 2020
 
 ## Datasets
 - NPE (Naturalness preserved enhancement) 84 images [[Naturalness Preserved Enhancement Algorithm for Non-Uniform Illumination Images](https://ieeexplore.ieee.org/document/6512558)]
