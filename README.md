@@ -49,6 +49,15 @@ Feel free to contribute to this list, recommend readed paper/code/resources and 
 - Structure-Revealing Low-Light Image Enhancement Via Robust Retinex Model [[Code](https://github.com/martinli0822/Low-light-image-enhancement) (p file), [Paper](https://ieeexplore.ieee.org/document/8304597)]
     -  Mading Li,Jiaying Liu, Wenhan Yang, Xiaoyan Sun, Zongming Guo, TIP, 2018 
 
+- 2020
+- Attention-Based Network For Low-Light Image Enhancement [[Paper](https://ieeexplore.ieee.org/document/9102774)] 
+    -  Cheng Zhan, Qingsen Yan, Yu Zhu, Xianjun Li, Jinqiu Sun, Yanning Zhang, ICME,2020
+-  An Experiment-Based Review of Low-Light Image Enhancement Methods [[Paper](https://ieeexplore.ieee.org/document/9088214)], IEEE Access, 2020
+- Unsupervised Real-world Low-light Image Enhancement with Decoupled Networks [[Paper](https://arxiv.org/abs/2005.02818)], Arxiv, 2020
+- LR3M: Robust Low-Light Enhancement via Low-Rank Regularized Retinex Model [[Paper](https://ieeexplore.ieee.org/document/9056796)]
+    - Xutong Ren, Wenhan Yang, Wen-Huang Cheng, and Jiaying Liu, TIP, 2020
+- Visual Perception Model for Rapid and AdaptiveLow-light Image Enhancement, [[Paper](https://arxiv.org/abs/2005.07343)], arxiv, submit to TCVST, 2020
+
 ## Datasets
 - NPE (Naturalness preserved enhancement) 84 images [[Naturalness Preserved Enhancement Algorithm for Non-Uniform Illumination Images](https://ieeexplore.ieee.org/document/6512558)]
 - LIME 10 images [[LIME: Low-light Image Enhancement viaIllumination Map Estimation](http://www.dabi.temple.edu/~hbling/publication/LIME-tip.pdf)]
@@ -66,7 +75,7 @@ Feel free to contribute to this list, recommend readed paper/code/resources and 
 ## People/Groups
 
 - Qifeng Chen, Intel [[Homepage](https://cqf.io/)]
-- Jiaying Liu, PKU [[STRUCT Group Website](http://39.96.165.147/)]
+- Wenhan Yang [[Homepage](https://flyywh.github.io/index.html)], Jiaying Liu, PKU [[STRUCT Group Website](http://39.96.165.147/)]
 - Jiaya Jia [[Homepage](http://jiaya.me/)], Xiaoyong Shen [[Homepage](http://xiaoyongshen.me/)], CUHK
 - Qing Zhang [[Homepage](http://zhangqing-home.net/)], Weishi Zheng [[Homepage](https://www.isee-ai.cn/~zhwshi/)], Sun Yat-sen University 
 - Chongyi Li [[Homepage](https://li-chongyi.github.io/)], Chen Change (Cavan) Loy[[Homepage](http://personal.ie.cuhk.edu.hk/~ccloy/index.html)], Nanyang Technological University (NTU)
