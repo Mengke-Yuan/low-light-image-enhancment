@@ -11,6 +11,7 @@ Feel free to contribute to this list, recommend readed paper/code/resources and 
 - [Methods](#Methods)
     - [Representative Methods with Codes](#)
 - [Datasets]()
+- [People/Groups](#People/Groups)
 - [Sorted by venue and publication time]
     - [Conference]
     - [Journal]
@@ -24,10 +25,16 @@ Feel free to contribute to this list, recommend readed paper/code/resources and 
 ### Representative Methods with Codes
 - LIME: Low-light Image Enhancement viaIllumination Map Estimation [[Code](https://sites.google.com/view/xjguo/lime), [Paper](http://www.dabi.temple.edu/~hbling/publication/LIME-tip.pdf)]
     - Xiaojie Guo, Yu Li, and Haibin Ling. IEEE Transactions on image processing (TIP). 2016.
+- Learning to See in the Dark [[Project](https://cchen156.github.io/SID.html), [Code](https://github.com/cchen156/Learning-to-See-in-the-Dark), [Paper](https://cchen156.github.io/paper/18CVPR_SID.pdf)]
+    - Chen Chen, Qifeng Chen, Jia Xu and Vladlen Koltun. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
 
 ## Datasets
-### Collection of images (Coming soon)
-- Collection of single image dehazing (Fattal, Berman, et al.) [[LINK]()]
 
-### Open datasets
+- See-in-the-Dark (SID) [[Learning to See in the Dark](https://cchen156.github.io/paper/18CVPR_SID.pdf)]
+    - 5094 raw short exposure reference image with a corresponding long-exposure reference image.
+
+## People/Groups
+
+- Qifeng Chen [[Homepage](https://cqf.io/)]
+
 
