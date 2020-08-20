@@ -38,7 +38,7 @@ Feel free to contribute to this list, recommend readed paper/code/resources and 
     - Yonghua Zhang, Jiawan Zhang, Xiaojie Guo, ACM MultiMedia(MM), 2019
 - EnlightenGAN: Deep Light Enhancement without Paired Supervision [[Code](https://github.com/VITA-Group/EnlightenGAN), [Paper](https://arxiv.org/abs/1906.06972)]
     - Yifan Jiang, Xinyu Gong, Ding Liu, Yu Cheng, Chen Fang, Xiaohui Shen, Jianchao Yang, Pan Zhou, Zhangyang Wang, arXiv, 2019
-- Getting to Know Low-light Images with The Exclusively Dark Dataset[[Code](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset), [Paper](http://cs-chan.com/doc/cviu.pdf)]
+- Getting to Know Low-light Images with The Exclusively Dark Dataset [[Code](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset), [Paper](http://cs-chan.com/doc/cviu.pdf)]
     - Yuen Peng Loh, Chee Seng Chan, CVIU, 2019
 - Underexposed Photo Enhancement Using Deep Illumination Estimation (DeepUPE) [[Code](https://github.com/wangruixing/DeepUPE), [Paper](https://drive.google.com/file/d/1CCd0NVEy0yM2ulcrx44B1bRPDmyrgNYH/view)]
     - Ruixing Wang, Qing Zhang, Chi-Wing Fu, Xiaoyong Shen, Wei-Shi Zheng, Jiaya Jia, CVPR, 2019
