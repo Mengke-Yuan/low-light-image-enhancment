@@ -87,16 +87,16 @@ Feel free to contribute to this list, recommend readed paper/code/resources and 
 ## Related Topic and Resources
 
 ### Image Restoration
-- Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation [[Paper](https://arxiv.org/abs/2003.13659), [Code](https://github.com/XingangPan/deep-generative-prior)] ECCV, 2020, Oral
-- Microscopy Image Restoration with Deep Wiener-Kolmogorov Filters [[Paper](https://arxiv.org/abs/1911.10989)] ECCV, 2020
-- Practical Deep Raw Image Denoising on Mobile Devices, [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510001.pdf)]
+- Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation [[Paper](https://arxiv.org/abs/2003.13659), [Code](https://github.com/XingangPan/deep-generative-prior)], ECCV, 2020, Oral
+- Microscopy Image Restoration with Deep Wiener-Kolmogorov Filters [[Paper](https://arxiv.org/abs/1911.10989)], ECCV, 2020
+- Practical Deep Raw Image Denoising on Mobile Devices, [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510001.pdf)], ECCV, 2020
 
 ### Learning Methods
 - Training Interpretable Convolutional Neural
 Networks by Differentiating Class-specific Filters [[Paper](https://arxiv.org/abs/2007.08194)] ECCV, 2020, Oral
 
 ### Image Synthesis
-- Guided Deep Decoder: Unsupervised Image Pair Fusion [[Paper](https://arxiv.org/abs/2007.11766),[Code](https://github.com/tuezato/guided-deep-decoder)], ECCV, 2020
+- Guided Deep Decoder: Unsupervised Image Pair Fusion [[Paper](https://arxiv.org/abs/2007.11766), [Code](https://github.com/tuezato/guided-deep-decoder)], ECCV, 2020
 - Filter Style Transfer between Photos [[Paper](https://arxiv.org/abs/2007.07925)], ECCV, 2020
 
 
