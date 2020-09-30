@@ -75,7 +75,12 @@ Feel free to contribute to this list, recommend readed paper/code/resources and 
 - DARK FACE [[Link](https://flyywh.github.io/CVPRW2019LowLight/)]
     - 789 paired low-light/normal-light images, 9,000 unlabeled low-light images
 - ExDark [[Link](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)]
+- Low light text detection [[Paper](https://ieeexplore.ieee.org/abstract/document/9162503)]
 
+## Application 
+
+### Text Dectection
+- Arbitrarily-Oriented Text Detection in Low Light Natural Scene Images [[Paper](https://ieeexplore.ieee.org/abstract/document/9162503)] TMM 2020
 ## People/Groups
 
 - Qifeng Chen, Intel [[Homepage](https://cqf.io/)]
@@ -113,7 +118,7 @@ Networks by Differentiating Class-specific Filters [[Paper](https://arxiv.org/ab
 - A Survey on Generative Adversarial Networks:Variants, Applications,and Training [[Paper](https://arxiv.org/ftp/arxiv/papers/2006/2006.05132.pdf)]
 
 ### Few-Shot Learning 
-- Generalizing from a Few Examples: A Survey on Few-ShotLearning [[Paper](https://arxiv.org/pdf/1904.05046.pdf)]
+- Generalizing from a Few Examples: A Survey on Few-Shot Learning [[Paper](https://arxiv.org/pdf/1904.05046.pdf)]
 
 ### Course 
 - Stanford EE367/CS448I: Computational Imaging and Display [[Link](http://stanford.edu/class/ee367/)]
