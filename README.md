@@ -100,6 +100,23 @@ Networks by Differentiating Class-specific Filters [[Paper](https://arxiv.org/ab
 - Guided Deep Decoder: Unsupervised Image Pair Fusion [[Paper](https://arxiv.org/abs/2007.11766), [Code](https://github.com/tuezato/guided-deep-decoder)], ECCV, 2020
 - Filter Style Transfer between Photos [[Paper](https://arxiv.org/abs/2007.07925)], ECCV, 2020
 
+### Knowledge Distillation
+- Knowledge Transfer Dehazing Network for NonHomogeneous Dehazing [[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Wu_Knowledge_Transfer_Dehazing_Network_for_NonHomogeneous_Dehazing_CVPRW_2020_paper.pdf), [Code](https://github.com/GlassyWu/KTDN)], CVPRW, 2019
+
+### Attention 
+- Dual Attention Network for Scene Segmentation [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fu_Dual_Attention_Network_for_Scene_Segmentation_CVPR_2019_paper.pdf), [Code](https://github.com/junfu1115/DANet)], CVPR 2019, citing 536(30th, sep, 2020), github star 1.7k
+
+### Challenge 
+- New Trends in Image Restoration and Enhancement workshop and challenges and video restoration and enhancement (NITRE) [[2020](https://data.vision.ee.ethz.ch/cvl/ntire20/)]
+
+### GAN 
+- A Survey on Generative Adversarial Networks:Variants, Applications,and Training [[Paper](https://arxiv.org/ftp/arxiv/papers/2006/2006.05132.pdf)]
+
+### Few-Shot Learning 
+- Generalizing from a Few Examples: A Survey on Few-ShotLearning [[Paper](https://arxiv.org/pdf/1904.05046.pdf)]
+
+### Course 
+- Stanford EE367/CS448I: Computational Imaging and Display [[Link](http://stanford.edu/class/ee367/)]
 
 
 
