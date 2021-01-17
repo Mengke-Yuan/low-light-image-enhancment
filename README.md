@@ -52,10 +52,10 @@ Feel free to contribute to this list, recommend readed paper/code/resources and 
     -  Mading Li,Jiaying Liu, Wenhan Yang, Xiaoyan Sun, Zongming Guo, TIP, 2018 
 # 2021
 
-- Benchmarking Low-Light Image Enhancement and Beyond, IJCV 2021
-- Semantically-guidedlow-lightimageenhancement, PRL
-- Low-light image enhancement based on multi-illuminationestimation, Applied Intelligence 
-- Integrating Semantic Segmentation and Retinex Model for LowLight Image Enhancement, MM
+- Benchmarking Low-Light Image Enhancement and Beyond, [[Paper](https://link.springer.com/article/10.1007/s11263-020-01418-8)], IJCV 2021
+- Semantically-guidedlow-lightimageenhancement, [[Paper](https://www.sciencedirect.com/science/article/pii/S016786552030297X)], PRL
+- Low-light image enhancement based on multi-illuminationestimation, [[Paper](https://link.springer.com/article/10.1007%2Fs10489-020-02119-y)], Applied Intelligence 
+- Integrating Semantic Segmentation and Retinex Model for LowLight Image Enhancement, [[Paper](https://dl.acm.org/doi/10.1145/3394171.3413757)], MM
 
 # 2020
 - Attention-Based Network For Low-Light Image Enhancement [[Paper](https://ieeexplore.ieee.org/document/9102774)] 
@@ -90,7 +90,7 @@ Feel free to contribute to this list, recommend readed paper/code/resources and 
 - Arbitrarily-Oriented Text Detection in Low Light Natural Scene Images [[Paper](https://ieeexplore.ieee.org/abstract/document/9162503)] TMM 2020
 
 ### Object Detection
-- YOLO in the Dark - Domain AdaptationMethod for Merging Multiple Models [[Paper](https://ieeexplore.ieee.org/abstract/document/9162503)] ECCV 2020
+- YOLO in the Dark - Domain AdaptationMethod for Merging Multiple Models [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58589-1_21)] ECCV 2020
 ## People/Groups
 
 - Qifeng Chen, Intel [[Homepage](https://cqf.io/)]
