@@ -46,11 +46,18 @@ Feel free to contribute to this list, recommend readed paper/code/resources and 
 - Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement (DCE-Net) [[Project](https://li-chongyi.github.io/Proj_Zero-DCE.html), [Code](https://github.com/Li-Chongyi/Zero-DCE), [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Zero-Reference_Deep_Curve_Estimation_for_Low-Light_Image_Enhancement_CVPR_2020_paper.pdf)]
     - Chunle Guo, Chongyi Li,Jichang Guo, Chen Change Loy, Junhui Hou, Sam Kwong, Runmin Cong, CVPR, 2020
 
+
 ### Beneficial References
 - Structure-Revealing Low-Light Image Enhancement Via Robust Retinex Model [[Code](https://github.com/martinli0822/Low-light-image-enhancement) (p file), [Paper](https://ieeexplore.ieee.org/document/8304597)]
     -  Mading Li,Jiaying Liu, Wenhan Yang, Xiaoyan Sun, Zongming Guo, TIP, 2018 
+# 2021
 
-- 2020
+- Benchmarking Low-Light Image Enhancement and Beyond, IJCV 2021
+- Semantically-guidedlow-lightimageenhancement, PRL
+- Low-light image enhancement based on multi-illuminationestimation, Applied Intelligence 
+- Integrating Semantic Segmentation and Retinex Model for LowLight Image Enhancement, MM
+
+# 2020
 - Attention-Based Network For Low-Light Image Enhancement [[Paper](https://ieeexplore.ieee.org/document/9102774)] 
     -  Cheng Zhan, Qingsen Yan, Yu Zhu, Xianjun Li, Jinqiu Sun, Yanning Zhang, ICME,2020
 -  An Experiment-Based Review of Low-Light Image Enhancement Methods [[Paper](https://ieeexplore.ieee.org/document/9088214)], IEEE Access, 2020
@@ -81,6 +88,9 @@ Feel free to contribute to this list, recommend readed paper/code/resources and 
 
 ### Text Dectection
 - Arbitrarily-Oriented Text Detection in Low Light Natural Scene Images [[Paper](https://ieeexplore.ieee.org/abstract/document/9162503)] TMM 2020
+
+### Object Detection
+- YOLO in the Dark - Domain AdaptationMethod for Merging Multiple Models [[Paper](https://ieeexplore.ieee.org/abstract/document/9162503)] ECCV 2020
 ## People/Groups
 
 - Qifeng Chen, Intel [[Homepage](https://cqf.io/)]
