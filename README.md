@@ -53,7 +53,7 @@ Feel free to contribute to this list, recommend readed paper/code/resources and 
 # 2021
 
 - Benchmarking Low-Light Image Enhancement and Beyond, [[Paper](https://link.springer.com/article/10.1007/s11263-020-01418-8)], IJCV 2021
-- Semantically-guidedlow-lightimageenhancement, [[Paper](https://www.sciencedirect.com/science/article/pii/S016786552030297X)], PRL
+- Semantically-guided low-light image enhancement, [[Paper](https://www.sciencedirect.com/science/article/pii/S016786552030297X)], PRL
 - Low-light image enhancement based on multi-illuminationestimation, [[Paper](https://link.springer.com/article/10.1007%2Fs10489-020-02119-y)], Applied Intelligence 
 - Integrating Semantic Segmentation and Retinex Model for LowLight Image Enhancement, [[Paper](https://dl.acm.org/doi/10.1145/3394171.3413757)], MM
 
